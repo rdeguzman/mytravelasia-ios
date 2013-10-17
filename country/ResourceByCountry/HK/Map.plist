@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinateCenterLatitude</key>
+	<real>22.301424</real>
+	<key>coordinateCenterLongitude</key>
+	<real>114.174955</real>
+	<key>maximumLatitude</key>
+	<real>22.564</real>
+	<key>maximumLongitude</key>
+	<real>114.487</real>
+	<key>minimumLatitude</key>
+	<real>22.138</real>
+	<key>minimumLongitude</key>
+	<real>113.836</real>
+	<key>regionCenterLatitude</key>
+	<real>22.341185</real>
+	<key>regionCenterLongitude</key>
+	<real>114.168549</real>
+	<key>regionSpanLatitude</key>
+	<real>0.264203</real>
+	<key>regionSpanLongitude</key>
+	<real>0.219727</real>
+</dict>
+</plist>
